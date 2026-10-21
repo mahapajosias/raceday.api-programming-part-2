@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="RaceDay.API.AppHost/RaceDay.API.AppHost.csproj" />
+  <Project Path="RaceDay.API.Server/RaceDay.API.Server.csproj" />
+</Solution>
